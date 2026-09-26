@@ -1,0 +1,11 @@
+[
+  "tests/test_login.py::test_account_lockout",
+  "tests/test_login.py::test_bad_username",
+  "tests/test_login.py::test_both_fields_blank",
+  "tests/test_login.py::test_empty_password",
+  "tests/test_login.py::test_empty_username",
+  "tests/test_login.py::test_locked_account_blocks_correct_password",
+  "tests/test_login.py::test_sql_injection_attempt",
+  "tests/test_login.py::test_valid_login",
+  "tests/test_login.py::test_wrong_password"
+]
